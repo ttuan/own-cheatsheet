@@ -1,17 +1,17 @@
-# Show search online
+# Spotify - Show search online
 S + ,
 
-# Show current track
+# Spotify - Show current track
 S + K
 
-# Pause
+# Spotify - Pause
 S + P
 
-# Next track
+# Spotify - Next track
 S + L
 
-# Previous track
+# Spotify - Previous track
 S + H
 
-# Create song radio from current track
+# Spotify - Create song radio from current track
 S + R
