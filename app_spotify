@@ -1,0 +1,17 @@
+# Show search online
+S + ,
+
+# Show current track
+S + K
+
+# Pause
+S + P
+
+# Next track
+S + L
+
+# Previous track
+S + H
+
+# Create song radio from current track
+S + R
